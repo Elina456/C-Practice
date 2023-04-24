@@ -1,0 +1,15 @@
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ObjectOrientedProgram.csproj.AssemblyReference.cache
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ObjectOrientedProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ObjectOrientedProgram.AssemblyInfoInputs.cache
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ObjectOrientedProgram.AssemblyInfo.cs
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ObjectOrientedProgram.csproj.CoreCompileInputs.cache
+C:\C#PracticeNew\ObjectOrientedProgram\bin\Debug\net7.0\ObjectOrientedProgram.exe
+C:\C#PracticeNew\ObjectOrientedProgram\bin\Debug\net7.0\ObjectOrientedProgram.deps.json
+C:\C#PracticeNew\ObjectOrientedProgram\bin\Debug\net7.0\ObjectOrientedProgram.runtimeconfig.json
+C:\C#PracticeNew\ObjectOrientedProgram\bin\Debug\net7.0\ObjectOrientedProgram.dll
+C:\C#PracticeNew\ObjectOrientedProgram\bin\Debug\net7.0\ObjectOrientedProgram.pdb
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ObjectOrientedProgram.dll
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\refint\ObjectOrientedProgram.dll
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ObjectOrientedProgram.pdb
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ObjectOrientedProgram.genruntimeconfig.cache
+C:\C#PracticeNew\ObjectOrientedProgram\obj\Debug\net7.0\ref\ObjectOrientedProgram.dll

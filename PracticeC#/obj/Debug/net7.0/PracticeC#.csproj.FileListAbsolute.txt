@@ -1,0 +1,15 @@
+C:\C#PracticeNew\PracticeC#\bin\Debug\net7.0\PracticeC#.exe
+C:\C#PracticeNew\PracticeC#\bin\Debug\net7.0\PracticeC#.deps.json
+C:\C#PracticeNew\PracticeC#\bin\Debug\net7.0\PracticeC#.runtimeconfig.json
+C:\C#PracticeNew\PracticeC#\bin\Debug\net7.0\PracticeC#.dll
+C:\C#PracticeNew\PracticeC#\bin\Debug\net7.0\PracticeC#.pdb
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\PracticeC#.csproj.AssemblyReference.cache
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\PracticeC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\PracticeC#.AssemblyInfoInputs.cache
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\PracticeC#.AssemblyInfo.cs
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\PracticeC#.csproj.CoreCompileInputs.cache
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\PracticeC#.dll
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\refint\PracticeC#.dll
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\PracticeC#.pdb
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\PracticeC#.genruntimeconfig.cache
+C:\C#PracticeNew\PracticeC#\obj\Debug\net7.0\ref\PracticeC#.dll
